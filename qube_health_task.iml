@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.16/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.16/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.16/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database_web-0.2.0+14/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database_web-0.2.0+14/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database_web-0.2.0+14/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Project/SOPHEE/SOPHEE/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Project/SOPHEE/SOPHEE/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Project/SOPHEE/SOPHEE/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/bin/cache/pkg/sky_engine/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/bin/cache/pkg/sky_engine/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/bin/cache/pkg/sky_engine/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-3.1.1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-3.1.1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-3.1.1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.15/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.15/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.15/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.19/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.19/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.19/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.17/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.17/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.17/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.6/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.17/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.17/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.2.17/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.19/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.19/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.19/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.6/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.6/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.6/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.2.16/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.2.16/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.2.16/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.1/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.1/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.17.1/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.15/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.15/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SDK/flutter_linux_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.15/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
