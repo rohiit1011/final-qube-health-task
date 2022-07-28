@@ -31,6 +31,7 @@ dependencies:
   flutter_emoji: ^2.4.0
   emojis: ^0.9.9
   calender_picker: ^1.0.7
+  http: ^0.13.4
   intl: ^0.17.0
   flutter:
     sdk: flutter

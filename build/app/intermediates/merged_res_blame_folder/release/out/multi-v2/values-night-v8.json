@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/neo/Rohit/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/neo/rohit-backup/qube-health-task/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/neo/Rohit/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/neo/rohit-backup/qube-health-task/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

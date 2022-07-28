@@ -1,8 +1,8 @@
 <libraries>
   <library
-      name="__local_aars__:/home/neo/Rohit/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/home/neo/Rohit/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/home/neo/Rohit/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/home/neo/rohit-backup/qube-health-task/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/home/neo/rohit-backup/qube-health-task/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/home/neo/rohit-backup/qube-health-task/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
       name="io.flutter:flutter_embedding_release:1.0.0-caaafc5604ee9172293eb84a381be6aadd660317@jar"
       jars="/home/neo/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-caaafc5604ee9172293eb84a381be6aadd660317/9c0fb298ec35f3e747d9330c98e93919939493c9/flutter_embedding_release-1.0.0-caaafc5604ee9172293eb84a381be6aadd660317.jar"

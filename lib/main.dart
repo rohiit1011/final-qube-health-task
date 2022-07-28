@@ -1,10 +1,13 @@
+import 'dart:convert';
+
 import 'package:calender_picker/date_picker_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:emojis/emojis.dart';
 import 'package:emojis/emoji.dart';
+import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:qube_health_task/widget/feelings_widget.dart';
-
+import 'package:http/http.dart' as http;
 import 'model/feelings_model.dart';
 
 void main() {
@@ -40,9 +43,41 @@ class _MyHomePageState extends State<MyHomePage> {
     'assets/y3.jpeg',
     'assets/y4.jpg'
   ];
+  var isDataLoading = false.obs;
+
+  Future getApi() async {
+    try {
+      isDataLoading(true);
+      http.Response response = await http.post(
+          Uri.parse(
+              'https://www.qubehealth.com/qube_services/api/testservice/getListOfUserFeeling'),
+          headers: {'X-Api-Key': 'f6d646a6c2f2df883ea0cccaa4097358ede98284'},
+          body: {"user_id": 3206161992, "feeling_date": "15-04-2022"});
+      if (response.statusCode == 200) {
+        ///data successfully
+
+         var result = jsonDecode(response.body);
+        print('response-->${{response.body}}');
+
+        return result;
+        //  user_model =  User_Model.fromJson(result);
+      } else {
+        ///error
+        return 'null';
+      }
+    } catch (e) {
+      print('Error while getting data is $e');
+      print('Error while getting data is $e');
+      return 'null';
+    } finally {
+      isDataLoading(false);
+
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('Your Feelings History'),
@@ -54,6 +89,15 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
+              FutureBuilder(
+                  future: getApi(),
+                  builder: (context,snapshot){
+                    print('---->'+snapshot.data.toString());
+                if(!snapshot.hasData || snapshot.data=='null'){
+                  return const Offstage();
+                }
+                return Text(snapshot.data.toString());
+              }),
               const SizedBox(
                 height: 10,
               ),
